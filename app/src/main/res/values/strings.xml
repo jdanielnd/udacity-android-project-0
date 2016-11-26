@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JD Portfolio</string>
+    <string name="main_title">My Nanodegree Apps</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="stockHawk">Stock Hawk</string>
+    <string name="buildItBigger">Build It Bigger</string>
+    <string name="makeYourAppMaterial">Make your App Material</string>
+    <string name="goUbiquitious">Go Ubiquitious</string>
+    <string name="capstone">Capstone Project</string>
+</resources>
